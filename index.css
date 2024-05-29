@@ -1,0 +1,25 @@
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 15em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+#Counter{
+    text-align: center;
+    
+}
+.buttons{
+    padding: 10px 20px;
+    font-size: 2em;
+    color: brown;
+    background-color: darkgreen;
+    border-radius: 7px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+
+}
+.buttons:hover{
+    background-color: rgb(255, 240, 240);
+}
